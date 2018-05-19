@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\SCM_Project\SCM_Project\bin\Debug\SCM_Project.exe.config
+c:\users\user\documents\visual studio 2015\Projects\SCM_Project\SCM_Project\bin\Debug\SCM_Project.exe
+c:\users\user\documents\visual studio 2015\Projects\SCM_Project\SCM_Project\bin\Debug\SCM_Project.pdb
+c:\users\user\documents\visual studio 2015\Projects\SCM_Project\SCM_Project\obj\Debug\SCM_Project.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\SCM_Project\SCM_Project\obj\Debug\SCM_Project.exe
+c:\users\user\documents\visual studio 2015\Projects\SCM_Project\SCM_Project\obj\Debug\SCM_Project.pdb
